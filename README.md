@@ -51,9 +51,6 @@ pip install pandas scikit-learn streamlit numpy
 2. Set the **traffic level, weather condition, day, and hour**.
 3. Click **"Predict ETA"** to get the estimated time.
 
-## 🎨 UI Preview
-![ETA Predictor UI](https://huggingface.co/spaces/JAGYANSU999/Estimated-Time-of-Arrival-ETA-Predictor)
-
 ## 📌 Future Improvements
 - 🏎️ Improve model accuracy using **advanced ML models**.
 - 📡 Integrate **live traffic & weather APIs**.
