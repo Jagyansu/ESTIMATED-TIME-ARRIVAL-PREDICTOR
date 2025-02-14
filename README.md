@@ -52,7 +52,7 @@ pip install pandas scikit-learn streamlit numpy
 3. Click **"Predict ETA"** to get the estimated time.
 
 ## 🎨 UI Preview
-![ETA Predictor UI](https://via.placeholder.com/800x400.png?text=ETA+Predictor+UI)
+![ETA Predictor UI](https://huggingface.co/spaces/JAGYANSU999/Estimated-Time-of-Arrival-ETA-Predictor)
 
 ## 📌 Future Improvements
 - 🏎️ Improve model accuracy using **advanced ML models**.
